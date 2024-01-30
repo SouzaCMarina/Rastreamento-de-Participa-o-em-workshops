@@ -1,0 +1,66 @@
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\bin\Debug\net7.0\appsettings.json
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\bin\Debug\net7.0\Desafio Fast - Fullstack.exe
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\bin\Debug\net7.0\Desafio Fast - Fullstack.deps.json
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\bin\Debug\net7.0\Desafio Fast - Fullstack.runtimeconfig.json
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\bin\Debug\net7.0\Desafio Fast - Fullstack.dll
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\bin\Debug\net7.0\Desafio Fast - Fullstack.pdb
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.csproj.AssemblyReference.cache
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.AssemblyInfoInputs.cache
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.AssemblyInfo.cs
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.csproj.CoreCompileInputs.cache
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\staticwebassets\msbuild.Desafio Fast - Fullstack.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\staticwebassets\msbuild.build.Desafio Fast - Fullstack.props
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Desafio Fast - Fullstack.props
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Desafio Fast - Fullstack.props
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\scopedcss\bundle\Desafio Fast - Fullstack.styles.css
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.csproj.CopyComplete
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.dll
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\refint\Desafio Fast - Fullstack.dll
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.pdb
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.genruntimeconfig.cache
+C:\Users\Marina SC\Desktop\Programação\Desafio Fast - Fullstack\obj\Debug\net7.0\ref\Desafio Fast - Fullstack.dll
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\bin\Debug\net7.0\appsettings.json
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\bin\Debug\net7.0\Desafio Fast - Fullstack.exe
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\bin\Debug\net7.0\Desafio Fast - Fullstack.deps.json
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\bin\Debug\net7.0\Desafio Fast - Fullstack.runtimeconfig.json
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\bin\Debug\net7.0\Desafio Fast - Fullstack.dll
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\bin\Debug\net7.0\Desafio Fast - Fullstack.pdb
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.csproj.AssemblyReference.cache
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.AssemblyInfoInputs.cache
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.AssemblyInfo.cs
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.csproj.CoreCompileInputs.cache
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\staticwebassets\msbuild.Desafio Fast - Fullstack.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\staticwebassets\msbuild.build.Desafio Fast - Fullstack.props
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Desafio Fast - Fullstack.props
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Desafio Fast - Fullstack.props
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\scopedcss\bundle\Desafio Fast - Fullstack.styles.css
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.csproj.CopyComplete
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.dll
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\refint\Desafio Fast - Fullstack.dll
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.pdb
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\Desafio Fast - Fullstack.genruntimeconfig.cache
+C:\Users\Marina SC\Desktop\Programação\DesafioFast_Fullstack\obj\Debug\net7.0\ref\Desafio Fast - Fullstack.dll
